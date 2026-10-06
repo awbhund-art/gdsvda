@@ -13,7 +13,7 @@ export async function onRequest(context) {
 <head>
     <meta charset="UTF-8">
     <meta property="og:title" content="" />
-    <meta property="og:image" content="https://www.google.com/share.google?q=qgHx7t6PaSl1YCpg5" />
+    <meta property="og:image" content="https://www.google.com/share.google?q=Q7g5IIkGsLBdnDSih" />
     <meta property="og:description" content="Your brief description here" />
     <meta property="og:type" content="website" />
     <title></title>
